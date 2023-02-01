@@ -1,9 +1,8 @@
-import React, { useState } from 'react'
+import React from 'react'
 import { store } from './Details'
 import { useContext } from 'react'
 import './All.css'
 import Card from './Card'
-import Title from './Title'
 const Bottomcontainer = () => {
     const result=useContext(store)
     console.log(result);

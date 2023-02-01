@@ -3,7 +3,7 @@ import { createContext } from 'react'
 import { useState } from 'react'
 export const store=createContext()
 const Details = (props) => {
-    const [data,setdata]=useState([{
+    const [data]=useState([{
         url:'https://stat5.bollywoodhungama.in/wp-content/uploads/2017/03/Bahubali-2-The-Conclusion-306x393.jpg'
     },
       {
