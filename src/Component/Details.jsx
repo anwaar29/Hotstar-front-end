@@ -14,10 +14,7 @@ const Details = (props) => {
       },
       {
         url:'https://media5.bollywoodhungama.in/wp-content/uploads/2016/12/Sanju-3-306x393.jpg'
-      },
-      {
-        url:'https://stat5.bollywoodhungama.in/wp-content/uploads/2016/03/89649841-306x393.jpg'
-      },
+      }
       
 
       
